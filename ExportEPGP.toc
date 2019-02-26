@@ -1,0 +1,9 @@
+## Interface: 30300
+## Version: 3.3.5
+## Title: Export EPGP
+## Author: Mooka
+## Notes Exports EP/GP values in HTML format for use on teh guild website.
+
+LoadEPGP.lua
+ExportEPGP.xml
+ExportEPGP.lua
